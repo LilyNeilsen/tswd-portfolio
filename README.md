@@ -9,8 +9,7 @@ My name is Lily Neilsen (she/her) and I am a graduate student in the Master of S
 # What I hope to learn
 I hope to learn more about how I can:
 
-1) use GitHub in government work
-   
+1) use GitHub in government work  
 2) How GitHub it is already being used at local, state, federal, and international levels of government
 
 
