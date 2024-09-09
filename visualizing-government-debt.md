@@ -1,7 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Visualizing government debt using Tableau
-This second image is a heat map of the debt to GDP ratio by country which was created using Tableau. 
 
 
 ## Part one: Working with web-based visualization tools and data
@@ -11,7 +10,7 @@ This second image is a heat map of the debt to GDP ratio by country which was cr
 
 ## Working with Tableau
 
-_A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
+This second image is a heat map of the debt to GDP ratio by country which was created using Tableau. 
 
 ## Part three: create your own visualization
 
