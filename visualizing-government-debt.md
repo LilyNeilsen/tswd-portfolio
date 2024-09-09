@@ -7,7 +7,7 @@ _As before, this template provides some of the structure you should have for you
 
 ## Part one: Working with web-based visualization tools and data
 
-![General government debt as a percentage of GDP in 2022] (oecd-gov-debt-png.md)
+![General government debt as a percentage of GDP in 2022] (oecd-gov-debt.png)
 
 ## Working with Tableau
 
