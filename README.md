@@ -20,8 +20,6 @@ I hope to learn more about how I can:
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 
 
-![General government debt as a percentage of GDP in 2022](https://github.com/user-attachments/assets/fd97cbf2-8499-4dcc-b061-8afa4f6623d3)
-
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
