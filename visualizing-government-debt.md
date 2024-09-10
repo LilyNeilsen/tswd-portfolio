@@ -7,9 +7,9 @@
 
 
 
-
-
 This is a simple bar chart that shows general government debt which for this chart is defined as "the gross debt of the general government as a percentage of GDP," where general government debt is the total amount of money that a government owes, shown as a percentage of the country’s overall economic output (GDP) [Organization for Economic Cooperation and Development](https://www.oecd.org/en/data/indicators/general-government-debt.html) 
+
+
 
 
 ![General government debt as a percentage of GDP in 2022](https://github.com/user-attachments/assets/fd97cbf2-8499-4dcc-b061-8afa4f6623d3)
