@@ -41,7 +41,8 @@ This is a ____ that was created using the same data from the heat map above. Thi
     var vizElement = divElement.getElementsByTagName('object')[0];                    
     vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
     var scriptElement = document.createElement('script');                    
-    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
 ## Comparison of visualizations
