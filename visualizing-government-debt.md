@@ -13,7 +13,7 @@ This is a simple bar chart that shows general government debt which for this cha
 
 ## Working with Tableau
 
-This second image is a heat map of the debt to GDP ratio by country which was created using Tableau. The data used to create this heat map can be accessed at https://www.oecd.org/en/data/indicators/general-government-debt.html 
+This second image is a heat map of the debt to GDP ratio by country which was created using Tableau. The data used for this heat map was from the [OECD](https://www.oecd.org/en/data/indicators/general-government-debt.html)
 
 
 
