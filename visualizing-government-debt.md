@@ -45,6 +45,7 @@ This is a tree map that was created using the same data from the heat map above.
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 ## Comparison of visualizations
 
 The first data visualization on this page is the simple bar chart showing the general government debt as a percentage of GDP with the OECD averages highlighted. This was created from downloading a png file from the OECD site discused above. The second and third visualizations were created using Tableau.
