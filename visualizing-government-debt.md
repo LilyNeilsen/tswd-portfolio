@@ -5,6 +5,8 @@
 
 ## Part one: Working with web-based visualization tools and data
 
+
+
 This is a simple bar chart that shows general government debt which for this chart is defined as [the gross debt of the general government as a percentage of GDP](https://www.oecd.org/en/data/indicators/general-government-debt.html) 
 
 
