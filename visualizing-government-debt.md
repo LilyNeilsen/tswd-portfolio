@@ -29,11 +29,9 @@ This second image is a heat map of the debt to GDP ratio by country which was cr
 
 
 
-
-
 ## Part three: My visualization
 
-This is a ____ that was created using the same data from the heat map above. This chart is showing the _________ 
+This is a tree map that was created using the same data from the heat map above. This chart is showing the debt-to-GDP ratios by country in the year 2000 alone. On this page you can hover over each of the countries and see each of their ratio values. While this was created by experimenting with Tableau, I believe it is effective as color and size are used, opposed to the number values that could take up space and overwhelm viewers. For those that want the exact ratio however can see the number by hovering over each country. 
 
 <div class='tableauPlaceholder' id='viz1725993566269' style='position: relative'><noscript><a href='#'><img alt='Debt-to-GDP ratios by country in 2000 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;gov_debt&#47;Debt-to-GDPratiosbycountryin2000&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='gov_debt&#47;Debt-to-GDPratiosbycountryin2000' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;gov_debt&#47;Debt-to-GDPratiosbycountryin2000&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -49,7 +47,7 @@ This is a ____ that was created using the same data from the heat map above. Thi
 
 The first data visualization on this page is the simple bar chart showing the general government debt as a percentage of GDP with the OECD averages highlighted. This was created from downloading a png file from the OECD site discused above. The second and third visualizations were created using Tableau.
 
-The heat map that visualizes the debt to GDP ratio above higlights countries that have ratios over and under 100. Countries with a high debt to GDP ratio are highlighted in orange and those with a ratio lower than 100 are highligthed blue. 
+The heat map that visualizes the debt to GDP ratio above higlights countries that have ratios over and under 100. Countries with a high debt to GDP ratio are highlighted in orange and those with a ratio lower than 100 are highligthed blue. This map is overwhelming compared to both Part one and three of this page, but it does reveal number values without having to move your cursor. 
 
 
 
