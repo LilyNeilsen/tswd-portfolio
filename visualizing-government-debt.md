@@ -23,11 +23,11 @@ This second image is a heat map of the debt to GDP ratio by country which was cr
 
 
 
-## Part three: create your own visualization
+## Part three: My visualization
 
 This is a ____ that was created using the same data from the heat map above. This chart is showing the _________ 
 
-## Summary of visualizations
+## Comparison of visualizations
 
 The first data visualization on this page is the simple bar chart showing the general government debt as a percentage of GDP with the OECD averages highlighted. This was created from downloading a png file from the OECD site discused above. The second and third visualizations were created using Tableau.
 
