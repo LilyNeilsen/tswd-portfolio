@@ -5,20 +5,35 @@
 
 ## Part one: Working with web-based visualization tools and data
 
+This is a simple bar chart that shows general government debt which for this chart is defined as "the gross debt of the general government as a percentage of GDP" (https://www.oecd.org/en/data/indicators/general-government-debt.html) 
+
+
 ![General government debt as a percentage of GDP in 2022](https://github.com/user-attachments/assets/fd97cbf2-8499-4dcc-b061-8afa4f6623d3)
 
 
 ## Working with Tableau
 
-This second image is a heat map of the debt to GDP ratio by country which was created using Tableau. 
+This second image is a heat map of the debt to GDP ratio by country which was created using Tableau. The data used to create this heat map can be accessed at https://www.oecd.org/en/data/indicators/general-government-debt.html 
+
+
+
+
+
+
+
+
 
 ## Part three: create your own visualization
 
-_Create another data visualization using the same data used earlier. DO NOT submit something that's just a minor modification of one of the visualizations already covered here. So, don't just modify the colors or labels of one of the earlier examples and call it good, or submit a slightly modified bar chart.  Instead, see what you can come up with on your own, and spend some time to try and create something that tells a story about the data._
+This is a ____ that was created using the same data from the heat map above. This chart is showing the _________ 
 
-_Summarize in a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful._
+## Summary of visualizations
 
-_It's a good idea to go back and review your work.  Could someone follow your process and understand what you did?  Do you need to further connect any of the sections with a bit of text?  Is it something you'd be happy to have as an example of your work from the class?_
+The first data visualization on this page is the simple bar chart showing the general government debt as a percentage of GDP with the OECD averages highlighted. This was created from downloading a png file from the OECD site discused above. The second and third visualizations were created using Tableau.
+
+The heat map that visualizes the debt to GDP ratio above higlights countries that have ratios over and under 100. Countries with a high debt to GDP ratio are highlighted in orange and those with a ratio lower than 100 are highligthed blue. 
+
+
 
 
 
