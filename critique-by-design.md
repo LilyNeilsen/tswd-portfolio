@@ -69,9 +69,9 @@ Interview 2: 23 year old, graduate student
 |----------|-------------|-------------|
 |    1     |    This chart is showing the yearly global use of different energy sources         |   The graph illustrates the time series trend of global energy use in terawatt-hours (TWh), categorized by energy source          |
 |    2     |    The piece appears to be arguing that we're increasing consumption of gas, goal, and oil at unsustainable rates         |      It indicates a general increase in energy consumption over time, with oil, coal, and gas showing significant growth. Early years saw low energy use from alternative sources        |
-|    3     |    Traditional Biomass is unclear        |             |
-|    4     |    I could see this being made for energy use activists or policy makers         |             |
-|    5     |    The piece does not make it clear who is using this energy         |             |
+|    3     |    Traditional Biomass is unclear        |    I am surprised by national plans aiming for high percentages of energy from renewables, given that these sources are still far behind oil and gas in usage          |
+|    4     |    I could see this being made for energy use activists or policy makers         |      Policymakers, stakeholders, or energy industry companies       |
+|    5     |    The piece does not make it clear who is using this energy         |   I would combine all renewable energy sources into an additional single line to better compare their total contribution against oil and gas          |
 
 Synthesis: 
 From the interviews, it is clear that parts of the visualization were not clear. For example
