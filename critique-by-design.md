@@ -54,7 +54,7 @@ This section was used to get critique of the redesign of the original visualizat
 
 Questions to ask (modify these for your own interviews): 
 
-- What do you think this is? 
+1. What do you think this is? 
 
 - What do you think this visualization is trying to share? 
 
