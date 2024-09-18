@@ -8,7 +8,7 @@ The following page is a critique of data from the Makeover Monday website that w
 
 The following image is the original visualization produced by the [Energy Institute](https://ourworldindata.org/grapher/global-energy-substitution?time=1800..2023) that was used for this critique and redesign process. 
 
-Note that there are features such as the 'play' button that starts the time lapse, the hyperlink-like definitions in the title (In the image below, the definitions are under the visualization instead), as well as the area in which users can hover over and see the total yearly energy use with the breakdown of each source. These are limitations to the redesign that is presented at the end of this page. 
+Note that there are features such as the 'play' button that starts the time lapse, the hyperlink-like definitions in the title (In the image below, the definitions are under the visualization instead), as well as the area in which users can hover over and see the total yearly energy use with the breakdown of each source. These are limitations to the redesigned visualization that is presented at the end of this page. 
 
 ![](global-energy-substitution.png)
 
@@ -16,9 +16,12 @@ Energy Institute - Statistical Review of World Energy (2024); Smil (2017) – wi
 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+This visualization presents a large amount of data, and at first, one may think that they fully understand what this all is trying to show. 
 
 ## Step three: Sketch a solution
+
+
 
 ## Step four: Test the solution
 
