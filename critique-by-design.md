@@ -86,15 +86,5 @@ This is the final redesign that I created. Similar to the image in Step One, I d
 
 - Clean Energy: Energy that is produced with little to no greenhouse gas emissions when compared to non-renewable energy sources such as coal, oil, and gas. 
 - Substitution Method: The ‘substitution method’ is used by researchers to correct primary energy consumption for efficiency losses experienced by fossil fuels. It tries to adjust non-fossil energy sources to the inputs that would be needed if it was generated from fossil fuels. It assumes that wind and solar electricity is as inefficient as coal or gas.To do this, energy generation from non-fossil sources are divided by a standard ‘thermal efficiency factor’ – typically around 0.4 Nuclear power is also adjusted despite it also experiencing thermal losses in a power plant. Since it’s reported in terms of electricity output, we need to do this adjustment to calculate its equivalent input value.
-- Terrawatt hour: A watt-hour is the energy delivered by one watt of power for one hour. Since one watt is equivalent to one joule per second, a watt-hour is equivalent to 3600 joules of energy.
-
-Metric prefixes are used for multiples of the unit, usually:
-
-- kilowatt-hours (kWh), or a thousand watt-hours.
-
-- Megawatt-hours (MWh), or a million watt-hours.
-
-- Gigawatt-hours (GWh), or a billion watt-hours.
-
-- Terawatt-hours (TWh), or a trillion watt-hours.
+- Terrawatt hour: A watt-hour is the energy delivered by one watt of power for one hour. Since one watt is equivalent to one joule per second, a watt-hour is equivalent to 3600 joules of energy. A Terawatt-hours (TWh), or a trillion watt-hours.
 
