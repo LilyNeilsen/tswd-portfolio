@@ -30,17 +30,17 @@ Generally, this visualization is for those who are interested in global energy t
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+This section was used to get critique of the redesign of the original visualization. 
 
 Questions to ask (modify these for your own interviews): 
 
-- Can you tell me what you think this is?
+- What do you think this is? 
 
-- Can you describe to me what this is telling you?
+- What do you think this visualization is trying to share? 
 
-- Is there anything you find surprising or confusing?
+- Is there anything you find confusing?
 
-- Who do you think is the intended audience for this?
+- Who do you think the intended audience for this is?
 
 - Is there anything you would change or do differently?
 
@@ -49,9 +49,9 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
+| Question | Interview 1 | Interview 2 || 
 |----------|-------------|-------------|
-|   asdfasdf       |             |             |
+|          |        asdfasdf     |             |
 |          |             |             |
 |          |             |             |
 
