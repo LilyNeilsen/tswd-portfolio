@@ -7,7 +7,8 @@ The following page is a critique of data from the Makeover Monday website that w
 ## Step one: the visualization
 
 The following image is the original visualization produced by the [Energy Institute](https://ourworldindata.org/grapher/global-energy-substitution?time=1800..2023) that was used for this critique and redesign process. 
-(global-energy-substitution.png)
+
+!(global-energy-substitution.png)
 
 Energy Institute - Statistical Review of World Energy (2024); Smil (2017) – with major processing by Our World in Data. “Primary energy from biofuels” [dataset]. Energy Institute, “Statistical Review of World Energy”; Smil, “Energy Transitions: Global and National Perspectives” [original data].
 
