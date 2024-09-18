@@ -19,8 +19,6 @@ I hope to learn more about how I can:
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 
-
-
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
