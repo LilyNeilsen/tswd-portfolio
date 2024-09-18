@@ -52,8 +52,7 @@ Note: I was unable to make all the changes that I wanted to because of my level 
 
 This section was used to get critique of the redesign of the original visualization. 
 
-Questions to ask (modify these for your own interviews): 
-
+The following are questions that I ask in two separate interviews:
 1. What do you think this is?
 2. What do you think this visualization is trying to share?
 3. Is there anything you find surprising or confusing?
