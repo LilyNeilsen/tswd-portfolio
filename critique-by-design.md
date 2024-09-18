@@ -82,4 +82,9 @@ Synthesis:
 This is the final redesign that I created. Similar to the image in Step One, I decided to add other definitions that may be confusing to the audience. Because I could not use Tableau to create the hyperlink-like definitions like the original visualization that can be seen using the [link](https://ourworldindata.org/grapher/global-energy-substitution?time=1800..2023), I placed these definitions at the top as a separate appendix to reference when looking at the chart. The line chart fits best given the amount of time provided, however I thought about creating individual pie charts for each year to show the relative amount of energy from each source. 
 
 
-Definitions for the visualization
+### Appendix I: Visualization Definitions 
+
+- Clean Energy: 
+- Substitution Method: The ‘substitution method’ is used by researchers to correct primary energy consumption for efficiency losses experienced by fossil fuels. It tries to adjust non-fossil energy sources to the inputs that would be needed if it was generated from fossil fuels. It assumes that wind and solar electricity is as inefficient as coal or gas.To do this, energy generation from non-fossil sources are divided by a standard ‘thermal efficiency factor’ – typically around 0.4 Nuclear power is also adjusted despite it also experiencing thermal losses in a power plant. Since it’s reported in terms of electricity output, we need to do this adjustment to calculate its equivalent input value.
+- Terrawatt hour: 
+
