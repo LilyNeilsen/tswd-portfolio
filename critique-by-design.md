@@ -67,14 +67,14 @@ Interview 2: 23 year old, graduate student
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|    1     |             |             |
+|    1     |    This chart is showing the yearly global use of different energy sources         |   The graph illustrates the time series trend of global energy use in terawatt-hours (TWh), categorized by energy source          |
 |    2     |    The piece appears to be arguing that we're increasing consumption of gas, goal, and oil at unsustainable rates         |             |
-|    3     |     Traditional Biomass is unclear        |             |
-|    4     |             |             |
-|    5     |             |             |
+|    3     |    Traditional Biomass is unclear        |             |
+|    4     |    I could see this being made for energy use activists or policy makers         |             |
+|    5     |    The piece does not make it clear who is using this energy         |             |
 
 Synthesis: 
-
+From the interviews, it is clear that parts of the visualization were not clear. For example
 
 ## Step five: build the solution
 This is the final redesign that I created. Similar to the image in Step One, I decided to add other definitions that may be confusing to the audience. Because I could not use Tableau to create the hyperlink-like definitions like the original visualization that can be seen using the [link](https://ourworldindata.org/grapher/global-energy-substitution?time=1800..2023), I placed these definitions at the top as a separate appendix to reference when looking at the chart. The line chart fits best given the amount of time provided, however I thought about creating individual pie charts for each year to show the relative amount of energy from each source. The final redesign that I created ended up being two separate line charts, one with the yearly energy use of non-renewable sources from 1950-2023 and the second with the yearly energy use of clean sources from 1950-2023. These charts show the yearly energy of these sources alone, and I decided to not include the yearly total because I felt that I could not clearly represent them boht in one chart with Tableau. 
