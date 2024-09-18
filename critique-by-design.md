@@ -54,15 +54,11 @@ This section was used to get critique of the redesign of the original visualizat
 
 Questions to ask (modify these for your own interviews): 
 
-1. What do you think this is? 
-
-- What do you think this visualization is trying to share? 
-
-- Is there anything you find confusing?
-
-- Who do you think the intended audience for this is?
-
-- Is there anything you would change or do differently?
+1. What do you think this is?
+2. What do you think this visualization is trying to share?
+3. Is there anything you find confusing?
+4. Who do you think the intended audience for this is?
+5. Is there anything you would change or do differently?
 
 Results: 
 
