@@ -56,7 +56,7 @@ Questions to ask (modify these for your own interviews):
 
 1. What do you think this is?
 2. What do you think this visualization is trying to share?
-3. Is there anything you find confusing?
+3. Is there anything you find surprising or confusing?
 4. Who do you think the intended audience for this is?
 5. Is there anything you would change or do differently?
 
@@ -67,9 +67,11 @@ Interview 2: 23 year old, graduate student
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+|    1     |             |             |
+|    2     |    The piece appears to be arguing that we're increasing consumption of gas, goal, and oil at unsustainable rates         |             |
+|    3     |     Traditional Biomass is unclear        |             |
+|    4     |             |             |
+|    5     |             |             |
 
 Synthesis: 
 
