@@ -81,4 +81,5 @@ Synthesis:
 ## Step five: build the solution
 This is the final redesign that I created. Similar to the image in Step One, I decided to add other definitions that may be confusing to the audience. Because I could not use Tableau to create the hyperlink-like definitions like the original visualization that can be seen using the [link](https://ourworldindata.org/grapher/global-energy-substitution?time=1800..2023), I placed these definitions at the top as a separate appendix to reference when looking at the chart. The line chart fits best given the amount of time provided, however I thought about creating individual pie charts for each year to show the relative amount of energy from each source. 
 
-Something as noted from the interviews, 
+
+Definitions for the visualization
