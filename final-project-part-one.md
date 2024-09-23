@@ -2,7 +2,9 @@
 
 
 # Outline
- My final project will cover challenges faced in urban and rural communities in the United States. The goal of using this topic is to express that while communities may differ p
+ My final project will cover food access in urban and rural communities in the United States. The goal of using this topic is to express that while communities may differ by geographic area or demographics, it explains how this is a common issue despite prevailing differences. 
+
+The story that will be told will highlight food security as the overarching theme, and then it will dive into the situations in urban and rural communities, which reveals lower access to foods across the country.
 
  
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
@@ -23,7 +25,7 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|   USDA Food Access Data   |  https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/#Current%20Version   |   Covers demographic information such as income and poverty rate in each state in the U.S. and if it is considered urban or rural          |
 |      |     |             |
 |      |     |             |
 
