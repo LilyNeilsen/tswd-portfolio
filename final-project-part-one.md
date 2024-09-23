@@ -2,10 +2,9 @@
 
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+ My final project will cover challenges faced in urban and rural communities in the United States. The goal of using this topic is to express that while communities may differ p
 
+ 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 Text here...
@@ -29,6 +28,4 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan to complete my final project using Shorthand and Tableau. I expect to utilize Tableau for data visualizations, and I will use Shorthand to place my visualizations and information to tell the story of urban and rural communities in the United States. 
