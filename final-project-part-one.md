@@ -4,11 +4,10 @@
 # Outline
  My final project will cover food access in urban and rural communities in the United States. The goal of using this topic is to express that while communities may differ by geographic area or demographics, it explains how this is a common issue despite prevailing differences. I am still working out some details, but I want to explore grocery stores as part of explaining food access nationwide.
 
-The story arc will proceed as top-down and then bottom up where I will show overall data on a national scale, then I will proceed to dive into two states or locations, with one being urban and one rural. 
+The story arc will proceed as top-down and then bottom up where I will show overall data on a national scale, then I will proceed to dive into two states or locations, with one being urban and one rural. I plan to start off with a map of national food access like to visualization below, then I will "zoom" into areas that are commonly known as rural and urban areas within different states such as West Virginia and California. This will be the lower part of the arc where I expect there to be a more emotional reaction to the data and visualizations. My "call to action" will not necessarily end on a happy note, but the goal is to leave the audience thinking differently about how they view rural and urban dynamics, seeing that they are more similar than expected. I may find other data such as access to healthcare or transportation to solify this point. 
  
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
 
 This first "sketch" created using Tableau. The color reveals the number of urban areas in each state, with California having the most urban areas. As a note, I will have to define what urban is according to the USDA as there are multiple definitions used at the federal level. If you hover over each state, it shows the number of LA10 and LA20 which are census tracts defined by Low Access to food in which they are locations where people live over 1 to 10 miles and then 1 to 20 miles away from a grocery store. There is a lot of data in this one source that took me awhile to organize and create this visualization, so this is the only sketch that I have at the moment. As explained above, I hope to dive into a specific urban and rural area of a state. 
 
