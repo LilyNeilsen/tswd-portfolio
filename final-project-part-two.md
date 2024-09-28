@@ -1,9 +1,11 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+Since part one of this project, I have decided to change up the story arc a bit to appeal to a more specific target audience, which I explain in the Target Audience section of this page. I plan to start out the Shorthand presentation now with a map similar to what I submitted for part one, but now it will just be based on population in all of the states in the United States, showing how the country is made up of a few places with large areas like LA and NYC that make up large populations in their states. 
 
-Text here!
+I plan to discuss this visualization by using data from information I found from the 
+
+
 
 # User research 
 
