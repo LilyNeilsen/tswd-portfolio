@@ -30,9 +30,9 @@ I interviewed people that I know, however I chose to not interview people that I
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| What part(s) of this presentation do you connect with if any? Why? | Insightful feedback            |             |             |
+|     Is there anything about this presentation or data that you found confusing? Why?                    |                                |             |             |
+|     How does this presentation make you feel? What thoughts do you have on rural America. Did this presentation make you think about any thoughts you had before you saw this presentation/data? What would make you feel differently about this topic?                     |                                |             |             |
 
 
 # Identified changes for Part III
