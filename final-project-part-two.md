@@ -14,7 +14,7 @@ The final parts will be covering specific counties based on population and votin
 
 ## Interview script
 
-My approach to the interviews are to see what is 1) confusing to my audience as far as data goes, so I am asking about that after I ask my interviewees about what they personally connected to as I feel like this will make them feel more open to providing me useful information for this question. 
+I showed the draft of my presentation in Shorthand during my interviews. My approach to the interviews are to see what is 1) confusing to my audience as far as data goes, so I am asking about that after I ask my interviewees about what they personally connected to as I feel like this will make them feel more open to providing me useful information for this question. 
 
 I interviewed people that I know, however I chose to not interview people that I know do not have a background in this topic. I also chose to have two of three interviews be people from urban areas as this is my target audience. The other interviewee is someone that grew up in a rural area of Ohio, and I thought it would be important to have them review this to see what may be confusing or even misleading. 
 
