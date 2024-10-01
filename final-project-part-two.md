@@ -26,7 +26,7 @@ I interviewed people that I know, however I chose to not interview people that I
 
 
 ## Interview findings
-The most useful feedback came from Interview
+The most useful feedback came from Interviewee 1 who was confused on the purpose of this information. While I had  only about half of the information I plan to use for the interview, this is very helpful because even without the rest of my information, the story was unclear. These interviews in conjuntion with the critique in class on 10/01/2024 have allowed me to realize that I have a story, but I need to work on telling it better by ordering the information I have strategically. 
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
