@@ -10,7 +10,7 @@ The final parts will be covering specific counties based on population and votin
 # User research 
 
 ## Target audience
-
+My target audience are those who are more connected with urban life, whether that is that they grew up in a large city, have never travelled to rural areas, or even if they just prefer living or visiting urban areas. 
 
 ## Interview script
 
