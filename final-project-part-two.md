@@ -30,9 +30,9 @@ The most useful feedback came from Interview
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| What part(s) of this presentation do you connect with if any? Why? |    Connected with newspaper data - useful         | Surprised about the urban and rural color choice in the title. Confused by negative change in second visualization           |   Felt that this was relevant because of election          |
-|     Is there anything about this presentation or data that you found confusing? Why?                    |   Newspaper data (had no idea how many have closed/merged                             |     Nothing confusing        |    Felt like they need to be careful where they get their news         |
-|     How does this presentation make you feel? What thoughts do you have on rural America. Did this presentation make you think about any thoughts you had before you saw this presentation/data? What would make you feel differently about this topic?                     |            Intersectionality and that urban and rural areas are not black and white                    |    Confused on the purpose of this information         |   Feeling frustrated and thinking about small businesses that are closing          |
+| What part(s) of this presentation do you connect with if any? Why? |    Connected with newspaper data - useful         |  Intersectionality and that urban and rural areas are not black and white              |   Newspaper data (had no idea how many have closed/merged)        |
+|     Is there anything about this presentation or data that you found confusing? Why?                    |   Confused on the purpose of this information                        |     Surprised about the urban and rural color choice in the title. Confused by negative change in second visualization        |   Nothing confusing         |
+|     How does this presentation make you feel? What thoughts do you have on rural America. Did this presentation make you think about any thoughts you had before you saw this presentation/data? What would make you feel differently about this topic?                     |                            |    Feeling frustrated and thinking about small businesses that are closing        |    Felt like they need to be careful where they get their news          |
 
 
 # Identified changes for Part III
