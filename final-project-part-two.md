@@ -41,7 +41,7 @@ The most useful feedback came from Interviewee 1 who was confused on the purpose
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Emphasize WHY this information is important to an audience | I plan to finish the story arc and then go through it again with the same people I interviewed to see if the presentation is more meaningful and effective |
-|                                          |                                                                                 |
+|                                          |                                                                                 | Defining some aspects of data visualizations to 
 |                                          |                                                                                 |
 |                                          |                                                                                 
 
