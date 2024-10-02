@@ -12,7 +12,7 @@ Here is a draft of my [Shorthand Presentation](https://preview.shorthand.com/vNG
 # User research 
 
 ## Target audience
-My target audience are those who are more connected with urban life, whether that is that they grew up in a large city, have never travelled to rural areas, or even if they just prefer living or visiting urban areas. 
+My target audience are those who are more connected with urban life, whether it's because they grew up in a large city, have never travelled to rural areas, or even if they just prefer living or visiting urban areas. I think that a sub-group of the target audience could be those from rural areas in the United States, as they may relate to feeling underrepresented in the news or feel isolated given the stereotypes of rural America. Not part of the target audience, but is worth mentioning, those who are not from the United States may the definition of urban and rural interesting and could compare it with their knowledge of other countries. 
 
 ## Interview script
 
