@@ -42,6 +42,4 @@ The most useful feedback came from Interviewee 1 who was confused on the purpose
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Emphasize WHY this information is important to an audience | I plan to finish the story arc and then go through it again with the same people I interviewed to see if the presentation is more meaningful and effective |
 | Defining some aspects of data visualizations so I don't have to explain what something means                                     |      Because I am using Tableau, there are some things that I cannot do simply because I don't know how to, however I plan to add small captions or labels to help the audience understand the visualization                                                                          |  
-|                                          |                                                                                 |
-|                                          |                                                                                 
-
+| Higlighting data points that are in text                                        |      Deleting the amount of text for the text parts of my Shorthand presentation. I.e. instead of putting a statistic within a paragraph, isolate it and have it be on it's own so it is easily readable and has emphasis.                                                                       
