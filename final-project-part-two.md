@@ -5,7 +5,7 @@ Since part one of this project, I have decided to change up the story arc a bit 
 
 I plan to discuss this visualization by using data from information I found from the United States Department of Agriculture and how most of the incorporated places in the U.S. have less than 5,000 residents. I then plan to discuss this in conjunction with data on the decline of local news outlets and how this has contributed to stereotypes about rural America and an information gap that exists both ways from urban to rural and vice versa. 
 
-The final parts will be covering specific counties based on population and voting information from the 2020 Election that shows changes from the 2016 Election. MY call to action is behavioral in nature, which in concept is extremely difficult. However the main purpose of choosing this topic and presenting the data associated with it is to have people see that even though voting choice in the United States is binary, the communities that create this data are not necessarily binary, and we should utilize this information to find common ground.
+The final parts will be covering specific counties based on population and voting information from the 2020 Election that shows changes from the 2016 Election. My call to action is behavioral in nature, which is less tangible than a direct link to donate or an action to take. However the main purpose of choosing this topic and presenting the data associated with it is to have people see that even though voting choice in the United States is binary, the communities that create this data are not necessarily binary, and we should utilize this information to find common ground.
 
 # User research 
 
@@ -40,7 +40,7 @@ The most useful feedback came from Interviewee 1 who was confused on the purpose
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+| Emphasize WHY this information is important to an audience | I plan to finish the story arc and then go through it again with the same people I interviewed to see if the presentation is more meaningful and effective |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 |                                          |                                                                                 
