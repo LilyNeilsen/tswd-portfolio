@@ -7,6 +7,8 @@ I plan to discuss this visualization by using data from information I found from
 
 The final parts will be covering specific counties based on population and voting information from the 2020 Election that shows changes from the 2016 Election. My call to action is behavioral in nature, which is less tangible than a direct link to donate or an action to take. However the main purpose of choosing this topic and presenting the data associated with it is to have people see that even though voting choice in the United States is binary, the communities that create this data are not necessarily binary, and we should utilize this information to find common ground.
 
+Here is a draft of my [Shorthand Presentation](https://preview.shorthand.com/vNGUn9b51cG4ye7p)
+
 # User research 
 
 ## Target audience
