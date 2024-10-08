@@ -4,7 +4,9 @@
 [Here](https://preview.shorthand.com/vNGUn9b51cG4ye7p) is my final presentation in Shorthand
 
 # Changes made since Part II
-Since part II, 
+Since part II, the major changes that I made were related to the story arc and story-telling aspect of this presentation. In my interviews, there was some confusion on why I was presenting these data and information, which was due to the fact that I was not finished with the Shorthand presentation at the time of the interviews. I however did need to do some work on developing the story, and so this feedback was helpful because it made me realize that I had parts of a story, but was not connecting them seamlessly. 
+
+Regarding the visualizations, I kept the first the same, however I decided to change the second map because it felt that it did not provi-----------------------------
 
 
 ## The audience
