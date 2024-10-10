@@ -6,7 +6,7 @@
 # Changes made since Part II
 Since part II, the major changes that I made were related to the story arc and story-telling aspect of this presentation. In my interviews, there was some confusion on why I was presenting these data and information, which was due to the fact that I was not finished with the Shorthand presentation at the time of the interviews. I however did need to do some work on developing the story, and so this feedback was helpful because it made me realize that I had parts of a story, but was not connecting them seamlessly. 
 
-Regarding the visualizations, I kept the first the same, however I decided to change the second map because it felt that it did not provi-----------------------------
+Regarding the visualizations, I kept the first the same, however I decided to change the second visualization because I wanted to highlight the more rural states and how they have the largest percentage decreases in the country. The last change I made for my presentation was not content related, but it was how I refined who my target audience was. In Part II I mention those who are more fond of cities, but in Part III I emphasized at the end, specifically in the call to action that policy makers living in urban areas need to keep rural communities in mind.
 
 
 ## The audience
@@ -14,9 +14,7 @@ As I changed up my story arc and the call to action for this topic, I decided to
 
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+After seeing some of my classmates Shorthand presentations, I debated if I had too much text, and I tried to cut down on a bit of it. It was difficult because we are publishing this and so I don't want to have too little text that someone that is not able to hear me present this does not know what this presentation is about. However, I also don't want to inundate the presentation with text that explains visualizations or features that should be able to not have text in order to understand. 
 
 
 # Final thoughts
