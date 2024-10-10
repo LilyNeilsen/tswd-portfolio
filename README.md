@@ -26,7 +26,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 My final project is focused on the intersectionality of urban and rural communities in the United States
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ---
 
